@@ -1,4 +1,5 @@
-![images](https://github.com/Sonofthanos/iot-pertemuan1/assets/111565036/35afe538-134d-4bcc-a836-ec8c0846e548)
+![images (2)](https://github.com/Sonofthanos/tugas01-Muhammad-Adlan-Azzikra/assets/111565036/e598e2b0-14eb-40ff-8643-3aae425ea312)
+
 
 # 1. Sejarah dan definisi IOT
    ## sejarah IOT
@@ -51,10 +52,15 @@ Kemampuan sistem untuk berkembang seiring bertambahnya jumlah perangkat yang ter
 
 # 4. implementasi IOT
 ### Connected Wearables: 
+![images (1)](https://github.com/Sonofthanos/tugas01-Muhammad-Adlan-Azzikra/assets/111565036/b51cd311-404a-4ac5-a656-7b593c6b6117)
+
 Perangkat berbasis IoT seperti smartwatch atau fitness tracker yang tidak hanya melacak aktivitas fisik, tetapi juga dapat memberikan pembaruan langsung ke pengguna, seperti notifikasi panggilan atau pesan, serta memantau data kesehatan seperti detak jantung dan tingkat tidur.
 
 ### Smart Lock: 
+![images](https://github.com/Sonofthanos/iot-pertemuan1/assets/111565036/35afe538-134d-4bcc-a836-ec8c0846e548)
 Kunci pintar yang dapat diakses melalui smartphone. Memberikan kontrol akses yang lebih baik, memungkinkan pengguna untuk membuka atau mengunci pintu dari jarak jauh. Beberapa juga dapat dilengkapi dengan sistem pengenalan wajah atau sidik jari untuk keamanan tambahan.
 
 ### Connected Pet Feeder:
+![61fygBU-ZLL _AC_UF1000,1000_QL80_](https://github.com/Sonofthanos/tugas01-Muhammad-Adlan-Azzikra/assets/111565036/f68b6c09-6a8f-4a3c-bb1d-c1d5949fcb15)
+
 Pemberi makan hewan peliharaan yang terhubung ke jaringan. Memungkinkan pemilik hewan peliharaan untuk menjadwalkan waktu makan, memberikan porsi makan yang tepat, dan bahkan memberikan makanan secara otomatis melalui aplikasi seluler, bahkan saat pemilik tidak berada di rumah.
