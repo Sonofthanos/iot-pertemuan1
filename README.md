@@ -1,4 +1,4 @@
-# Sejarah dan definisi IOT
+# 1. Sejarah dan definisi IOT
    ## sejarah IOT
 Sejarah Internet of Things (IoT) dimulai pada awal 1980-an dengan perkembangan komputer dan jaringan komunikasi. Namun, istilah "Internet of Things" pertama kali diperkenalkan oleh Kevin Ashton pada tahun 1999. Pada awalnya, konsep ini lebih berfokus pada penggunaan RFID (Radio-Frequency Identification) untuk mengotomatiskan manajemen rantai pasokan.   
 Selanjutnya, perkembangan teknologi dan konektivitas internet membawa perkembangan pesat dalam implementasi IoT. Pada tahun 2010-an, penggunaan sensor, perangkat pintar, dan konektivitas nirkabel semakin meluas. IoT diterapkan dalam berbagai bidang, termasuk kota pintar, kendaraan pintar, kesehatan, industri, dan rumah pintar.
@@ -8,7 +8,7 @@ Perkembangan standar komunikasi seperti MQTT (Message Queuing Telemetry Transpor
 ## Definisi IOT 
 Internet of Things adalah sebuah konsep yang terhubung dengan perangkat sebagai media komunikasi berbasis internet. Dengan adanya IoT, seorang user dapat saling terhubung dan berkomunikasi untuk melakukan aktivitas tertentu, mencari, mengolah, dan mengirimkan informasi secara otomatis.
 
-# Referensi model IOT
+# 2. Referensi model IOT
    1. connectivity layer
    2. Edge computing
    3. Data accumulation
@@ -16,7 +16,7 @@ Internet of Things adalah sebuah konsep yang terhubung dengan perangkat sebagai 
    5. Application
    6. Data abstraction
 
-# Macam-macam kebutuhan IOT
+# 3. Macam-macam kebutuhan IOT
 ### Sensor dan Perangkat Pemantauan:
 Untuk mengumpulkan data dari lingkungan fisik.
 
@@ -47,7 +47,7 @@ Untuk menganalisis data dan mengambil keputusan secara otomatis.
 ### Skalabilitas:
 Kemampuan sistem untuk berkembang seiring bertambahnya jumlah perangkat yang terhubung.
 
-# implementasi IOT
+# 4. implementasi IOT
 ### Connected Wearables: 
 Perangkat berbasis IoT seperti smartwatch atau fitness tracker yang tidak hanya melacak aktivitas fisik, tetapi juga dapat memberikan pembaruan langsung ke pengguna, seperti notifikasi panggilan atau pesan, serta memantau data kesehatan seperti detak jantung dan tingkat tidur.
 
