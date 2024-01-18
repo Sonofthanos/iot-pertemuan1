@@ -1,3 +1,5 @@
+![images](https://github.com/Sonofthanos/iot-pertemuan1/assets/111565036/35afe538-134d-4bcc-a836-ec8c0846e548)
+
 # 1. Sejarah dan definisi IOT
    ## sejarah IOT
 Sejarah Internet of Things (IoT) dimulai pada awal 1980-an dengan perkembangan komputer dan jaringan komunikasi. Namun, istilah "Internet of Things" pertama kali diperkenalkan oleh Kevin Ashton pada tahun 1999. Pada awalnya, konsep ini lebih berfokus pada penggunaan RFID (Radio-Frequency Identification) untuk mengotomatiskan manajemen rantai pasokan.   
